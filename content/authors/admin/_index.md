@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yidan Huyan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Texas A&M University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistical design and analysis of clinical trials, survival analysis, and oncology research.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Survival Analysis
+- Oncology Study
+- Clinical Trials
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MPH in Biostatistics
+    institution: Texas A&M University
+    year: 2020
+  - course: BSc in Human Biology
+    institution: Michigan State University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '/#contact'  # For a direct email link, use "mailto:fayhyyd@yahoo.com".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://www.linkedin.com/in/yidan-huyan-784967151/
+- icon: wordpress
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: http://fayhy.design.blog/
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
