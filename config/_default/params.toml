@@ -100,14 +100,14 @@ address = {street = "2543 Teal Dr.", city = "College Station", region = "TX", po
 coordinates = {latitude = "30.609770026120433", longitude = "-96.3540160023505"} 
 
 # Directions for visitors to locate you.
-directions = ""
+directions = []
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+appointment_url = []
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
