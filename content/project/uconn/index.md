@@ -1,15 +1,15 @@
 ---
-title: Data Visualization-the Clinical Trial of AMG 827 
-summary: A summer academy project aims to compare the differences between Phase II and Phase III clinical trials of a psoriasis drug. We used R for all analyses.
+title: Data Visualization of AMG 827 (psoriasis drug)
+summary: Visualizing the data and providing insights based on findings. The ppt shows the comparsions of the differences between Phase II and Phase III clinical trials of a psoriasis drug. We used R for all analyses. 
 tags:
-- Deep Learning
+- academy
 date: "2020-08-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Heatmap of the adverse event in Phase III
   focal_point: Smart
 
 links:
