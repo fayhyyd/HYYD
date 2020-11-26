@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "rstudio"
+  icon_pack = "custom"
+  name = "R Studio"
   description = "100%"
 
 [[feature]]
@@ -39,7 +39,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "analytics"
+  icon = "eye"
   icon_pack = "fas"
   name = "Data Visulization"
   description = "80%"  
@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Photoshop"
   description = "30%"
 
 # Uncomment to use emoji icons.
