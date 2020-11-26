@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   company = "Texas A&M University"
   company_url = ""
   location = "Texas"
-  date_start = "2019-08-02"
+  date_start = "2019-08-12"
   date_end = "2020-08-02"
   description = """
   Research Topics:
@@ -74,7 +74,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Texas"
   date_start = "2018-07-02"
-  date_end = "2019-08-02"
+  date_end = "2019-08-01"
   description = """
   Research Topic:
   Association between prenatal e-cigarette use and adverse birth outcomes.
