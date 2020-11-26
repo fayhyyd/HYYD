@@ -49,9 +49,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! My name is Yidan Huyan. While I working on my first lab projects, first design and using the statistical methods, I was fascinated by the intricacies and application of biostatistics. The power and efficiency of computer impressed on me the importance of technology as a tool in research. As I continued to take additional electives in statistics and programming, I gradually recognized that biostatistics is indispensable in the development of pharmaceuticals and medicine because scientific questions need to be supported by quantitative research evidence. My earlier research interests in the traditional bench of life science had gradually shifted to a statistically oriented approach. After I graduated from Michigan State University, I started my Master of Public Health Studies with a concentration in Biostatistics.  
+Hello! My name is Yidan Huyan. While I was working on my first undergraduate lab project, aiming to find age differences and photosynthesis efficiencies in Acer trees, I was fascinated by the intricacies and application of biostatistics. The power and efficiency of computer impressed on me the importance of technology as a tool in research. As I continued to take additional electives in statistics and programming, I gradually recognized that biostatistics is indispensable in the development of pharmaceuticals and medicine because scientific questions need to be supported by quantitative research evidence. My earlier research interests in the traditional bench of life science had gradually shifted to a statistically oriented approach. After the completion of my Bachelor of Science in Human Biology, I started my Master of Public Health studies with a concentration of Biostatistics at the Texas A&M University.
