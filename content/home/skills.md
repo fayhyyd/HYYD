@@ -22,13 +22,13 @@ subtitle = ""
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Statistics"
   description = "100%"  
   
 [[feature]]
   icon = "analytics"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Data Visulization"
   description = "80%"  
   
