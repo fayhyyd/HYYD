@@ -18,17 +18,29 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "100%"
+
+[[feature]]
+  icon = "sas"
+  icon_pack = "custom"
+  name = "SAS"
+  description = "100%"
+  
+[[feature]]
+  icon = "stata"
+  icon_pack = "custom"
+  name = "Stata"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
   
 [[feature]]
   icon = "analytics"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Data Visulization"
   description = "80%"  
   
