@@ -81,5 +81,6 @@ date_format = "Jan 2006"
   
  * Collaborated with Epidemiologist in analyzing Phase-8 Questionnaire of the 2016 Pregnancy Risk Assessment Monitoring System (PRAMS);
  * Analyzed dataset to interpret the effectiveness of e-cigarette to quit smoking;
- * Interpreted relapse rate of women after giving birth and provided results.
+ * Interpreted relapse rate of women after giving birth and provided results.  
+ """
 +++
