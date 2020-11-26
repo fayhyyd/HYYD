@@ -18,7 +18,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 # url_code: ""
- url_pdf: "HYYD/content/project/uconn/speed.pdf"
+# url_pdf: "HYYD/content/project/uconn/speed.pdf"
 # url_slides: ""
 # url_video: ""
 
