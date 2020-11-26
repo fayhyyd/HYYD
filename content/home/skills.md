@@ -18,37 +18,37 @@ subtitle = ""
   icon = "rstudio"
   icon_pack = "custom"
   name = "R Studio"
-  description = "100%"
+  description = "Frequently used packages: Data analysis - data.table, stringr, dplyr, knitr; Visulization - shiny, ggplot2; General network - XML, RCurl"
 
 [[feature]]
   icon = "sas"
   icon_pack = "custom"
   name = "SAS"
-  description = "100%"
+  description = "Proficiency in both base and advanced SAS (e.g. SQL, DATA, MACRO, HASH, etc.)"
   
 [[feature]]
   icon = "stata"
   icon_pack = "custom"
   name = "Stata"
-  description = "100%"
+  description = "Proficiency in applying statistical analysis methods such as regression, comparison, and correlation"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
   
-[[feature]]
-  icon = "eye"
-  icon_pack = "fas"
-  name = "Data Visulization"
-  description = "80%"  
+# [[feature]]
+#  icon = "eye"
+#  icon_pack = "fas"
+#  name = "Data Visulization"
+#  description = "80%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photoshop"
-  description = "30%"
+# [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photoshop"
+#  description = "30%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
