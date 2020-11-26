@@ -11,7 +11,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Texas A&M University
-  url: ""
+  url: "https://public-health.tamu.edu/departments/epi-bio/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical design and analysis of clinical trials, survival analysis, and oncology research.
@@ -49,9 +49,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
