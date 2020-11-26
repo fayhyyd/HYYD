@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "SAS"
+  organization_url = "https://www.sas.com/en_us/home.html"
+  title = "SAS Certified Base Programmer for SAS 9 (CBP)"
+  url = "https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html"
+  certificate_url = "https://www.certmetrics.com/SAS/public/verification.aspx"
+  date_start = "2019-04-01"
   date_end = ""
-  description = ""
+  description = "Credential ID G18Q1TT2C1F1Q5CF"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "University of Connecticut"
+  organization_url = "https://uconn.edu/"
+  title = "Certificate of Outstanding Completion in 2020 UConn Summer Academy"
+  url = "https://events.stat.uconn.edu/BI-UConn/"
+  certificate_url = "https://events.stat.uconn.edu/BI-UConn/"
+  date_start = "2020-08-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "2020 UConn Statistics virtual biopharmaceutical summer academy"
   
 
 +++
