@@ -20,9 +20,9 @@ subtitle = ""
   name = "R Studio"
   description = """ 
   Frequently used packages: 
-            * Data analysis - data.table, stringr, dplyr, knitr; 
-            * Visulization - shiny, ggplot2; 
-            * General network - XML, RCurl 
+             Data analysis - data.table, stringr, dplyr, knitr; 
+             Visulization - shiny, ggplot2; 
+             General network - XML, RCurl 
             """
 
 [[feature]]
