@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://fayhy.design.blog/2020/03/05/r-create-wordcloud-of-nature-top10-papers-2019/
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
