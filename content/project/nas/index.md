@@ -1,8 +1,8 @@
 ---
 title: Demographics and Clinical Characteristics of Neonatal Abstinence Syndrome (NAS) in Texas, 2019            
 summary: This data brief presents the demographic and clinical characteristics of non-iatrogenic NAS cases recorded among 692 hospitals in Texas, 2019. 
-tags: 
--work
+tags:
+- work
 date: "2020-08-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page). 
