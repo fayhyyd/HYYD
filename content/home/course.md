@@ -19,10 +19,6 @@ subtitle = ""
   icon_pack = "custom"
   name = "R Studio"
   description = "Mathematics" 
-  Frequently used packages: 
-             Data analysis - data.table, stringr, dplyr, knitr; 
-             Visulization - shiny, ggplot2; 
-             General network - XML, RCurl 
             """
 
 [[feature]]
