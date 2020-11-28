@@ -15,7 +15,7 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: download ppt
+  name: ppt
   url: https://fayhy.design.blog/2020/11/27/the-application-of-survival-analysis-in-stata/
 url_code: ""
 url_pdf: ""
