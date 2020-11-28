@@ -1,22 +1,22 @@
 ---
-title: Data Visualization of AMG 827 (psoriasis drug)
-summary: Visualizing the data and providing insights based on findings. The ppt shows the comparsions of the differences between Phase II and Phase III clinical trials of a psoriasis drug. We used R for all analyses. 
+title: Data Visualization- Phase II&III of a psoriasis drug
+summary: Visualizing the data and providing insights based on findings. The ppt shows the differences between Phase II & III clinical trials of a psoriasis drug. We used R for all analyses. This project won the outstanding completion of the 2020 UConn Summer Academy. 
 tags:
 - academy
 date: "2020-08-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://fayhy.design.blog/2020/11/27/r-clinical-trial-phase-iiiii-of-a-psoriasis-drug/"
 
 image:
   caption: Heatmap of the adverse event in Phase III
   focal_point: Smart
   
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: file-pdf
+  icon_pack: far
+  name: PDF
+  url: https://fayhy.design.blog/2020/11/27/r-clinical-trial-phase-iiiii-of-a-psoriasis-drug/
 url_code: ""
 url_pdf: ""
 url_slides: ""
