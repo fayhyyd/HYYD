@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Core Courses"
-subtitle = ""
+title = "Courses"
+subtitle = "The core and professional courses I've taken"
 
 # Showcase personal skills or business features.
 # 
@@ -15,37 +15,37 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "stata"
-  icon_pack = "custom"
+  icon = "square-root-alt"
+  icon_pack = "fas"
   name = "Mathematics"
   description = "Mathematics" 
           
 [[feature]]
-  icon = "sas"
-  icon_pack = "custom"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Statistics"
   description = "Proficiency in both base and advanced SAS (e.g. SQL, DATA, MACRO, HASH, etc.)"
   
 [[feature]]
-  icon = "stata"
-  icon_pack = "custom"
+  icon = "chart-area"
+  icon_pack = "fas"
   name = "Biostatistics"
   description = "Proficiency in applying statistical analysis methods such as regression, comparison, and correlation"
   
  [[feature]]
-  icon = "chart-line"
+  icon = "heartbeat"
   icon_pack = "fas"
   name = "Public Health"
   description = "100%"  
   
  [[feature]]
-  icon = "eye"
+  icon = "dna"
   icon_pack = "fas"
   name = "Biology"
   description = "80%"  
   
  [[feature]]
-  icon = "camera-retro"
+  icon = "flask"
   icon_pack = "fas"
   name = "Chemistry"
   description = "30%"
