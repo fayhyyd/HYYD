@@ -1,22 +1,21 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
-tags:
--  ["school","work"]
-date: "2016-04-27T00:00:00Z"
+title: Demographics and Clinical Characteristics of Neonatal Abstinence Syndrome (NAS) in Texas, 2019            
+summary: This data brief presents the demographic and clinical characteristics of non-iatrogenic NAS cases recorded among 692 hospitals in Texas, 2019. 
+tags = ["work", "school"]
+date: "2020-08-17T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+# Optional external URL for project (replaces project detail page). 
+external_link: "https://fayhy.design.blog/2020/11/27/stata-demographics-and-clinical-characteristics-of-neonatal-abstinence-syndrome-in-texas-2019/"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Length of stay in days of NAS patients at hospital 
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: file-pdf
+  icon_pack: fas
+  name: "pdf download"
+  url: https://fayhy.design.blog/2020/11/27/stata-demographics-and-clinical-characteristics-of-neonatal-abstinence-syndrome-in-texas-2019/
 url_code: ""
 url_pdf: ""
 url_slides: ""
