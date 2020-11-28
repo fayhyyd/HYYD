@@ -15,7 +15,7 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: "download pdf"
+  name: pdf
   url: https://fayhy.design.blog/2020/11/27/stata-general-application-of-propensity-score-matching/
 url_code: ""
 url_pdf: ""
