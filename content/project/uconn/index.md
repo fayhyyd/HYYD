@@ -14,7 +14,7 @@ image:
   
 links:
 - icon: file-pdf
-  icon_pack: far
+  icon_pack: fas
   name: "pdf password: amg827"
   url: https://fayhy.design.blog/2020/11/27/r-clinical-trial-phase-iiiii-of-a-psoriasis-drug/
 url_code: ""
