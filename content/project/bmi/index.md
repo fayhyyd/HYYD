@@ -17,7 +17,10 @@ links:
   icon_pack: fas
   name: "pdf password: clhbrfss2019"
   url: https://fayhy.design.blog/2020/11/27/stata-factors-associated-with-body-mass-index-among-arizona-residents-findings-from-the-2017-brfss/
-
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
