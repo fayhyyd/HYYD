@@ -18,37 +18,37 @@ subtitle = "The core and professional courses I've taken"
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Mathematics"
-  description = "Mathematics" 
+  description = "Calculus II&II, Linear algebra, Multivariable calculus, Matrix algebra" 
           
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Proficiency in both base and advanced SAS (e.g. SQL, DATA, MACRO, HASH, etc.)"
+  description = "Distribution theory, methods of statistics, Data mining & analysis, Regression analysis"
   
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Biostatistics"
-  description = "Proficiency in applying statistical analysis methods such as regression, comparison, and correlation"
+  description = "Biostatistics I&II, Categorical data analysis, Analysis of longitudinal multi data, Survival analysis, Data management"
   
  [[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
   name = "Public Health"
-  description = "100%"  
+  description = "Epidemiologic methods, Public policy, Health promotion"  
   
  [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Biology"
-  description = "80%"  
+  description = " Nutrition, Cells and molecules, Human genetics, Psychology, Microbiology, Immunology, Human gross anatomy"  
   
  [[feature]]
   icon = "flask"
   icon_pack = "fas"
   name = "Chemistry"
-  description = "30%"
+  description = "General chemistry, Organic chemistry I&II"
 
 # Uncomment to use emoji icons.
 # [[feature]]
