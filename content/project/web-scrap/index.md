@@ -1,5 +1,5 @@
 ---
-title: Web Scraping- Abstract of papers in Nature/PNAS/Science
+title: Web Scraping- Abstract of papers, Nature/PNAS/Science
 summary: A web scraping function can be further developed into an R package, analyzing key information of papers from the official website. 
 tags:
 - other
