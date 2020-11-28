@@ -15,7 +15,7 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: "pdf download"
+  name: pdf
   url: https://fayhy.design.blog/2020/11/27/stata-demographics-and-clinical-characteristics-of-neonatal-abstinence-syndrome-in-texas-2019/
 url_code: ""
 url_pdf: ""
