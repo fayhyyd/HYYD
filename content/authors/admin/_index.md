@@ -21,6 +21,7 @@ interests:
 - Oncology Study
 - Clinical Trials
 - Data Visualization 
+- Overdose Prevention
 
 education:
   courses:
@@ -66,4 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Hello! My name is Yidan Huyan. While I was working on my first undergraduate lab project, aiming to find age differences and photosynthesis efficiencies in Acer trees, I was fascinated by the intricacies and application of biostatistics. The power and efficiency of computer impressed on me the importance of technology as a tool in research. As I continued to take additional electives in statistics and programming, I gradually recognized that biostatistics is indispensable in the development of pharmaceuticals and medicine because scientific questions need to be supported by quantitative research evidence. My earlier research interests in the traditional bench of life science had gradually shifted to a statistically oriented approach. After the completion of my Bachelor of Science in Human Biology, I started my Master of Public Health studies with a concentration of Biostatistics at the Texas A&M University.
+Hello! My name is Yidan Huyan. In 2015, while working on my first undergraduate lab project, aiming to find age differences and photosynthesis efficiencies in Acer trees, I was fascinated by biostatistics's intricacies. The power and efficiency of computers impressed me with the importance of technology as a research tool. As I continued to take additional electives in statistics and programming, I gradually recognized that biostatistics is indispensable in developing pharmaceuticals and medicine because scientific questions need to be supported by quantitative research evidence. My earlier research interests in the traditional bench of life science had gradually shifted to a statistically oriented approach. Since then, my passion for biostatistics has never stopped. 
+
+After graduating from master's school, I am currently working as a statistical consultant at the pharmacy college. With the experiences that I've participated in multiple public health projects back in the last 2 years, my current research interests lie in finding the specific cause of death and patterns by demographic factors, improving the cancer patient's quality of life by regulating survival analysis, implementing and analyzing clinical trials for the prevention and treatment of breast and pancreatic cancer. 
