@@ -1,6 +1,6 @@
 ---
 title: Wordcloud-Nature Top10 papers, 2019
-summary: An example of linking directly to an external project website using `external_link`.
+summary: An additional Wordcloud function can be further developed into an R package. Drawing wordcloud of the keywords of Nature's top 10 papers, 2019. 
 tags:
 - other
 date: "2020-01-27T00:00:00Z"
