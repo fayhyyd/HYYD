@@ -24,7 +24,7 @@ subtitle = "The core and professional courses I've taken"
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Distribution theory, methods of statistics, Data mining & analysis, Regression analysis"
+  description = "Distribution theory, Methods of statistics, Data mining & analysis, Regression analysis"
   
 [[feature]]
   icon = "chart-area"
