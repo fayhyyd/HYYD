@@ -18,7 +18,7 @@ subtitle = "The core and professional courses I've taken"
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Mathematics"
-  description = "Calculus I&II, Linear algebra, Multivariable calculus, Matrix algebra" 
+  description = "Calculus I&II, Linear algebra, Multivariable calculus, Matrix algebra, Vector algebra" 
           
 [[feature]]
   icon = "chart-bar"
