@@ -28,7 +28,7 @@ education:
   - course: MPH in Biostatistics
     institution: Texas A&M University
     year: 2020
-  - course: BSc in Human Biology
+  - course: BS in Human Biology
     institution: Michigan State University
     year: 2017
 
